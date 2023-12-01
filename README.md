@@ -3,4 +3,4 @@ This is a youtube clone app I have created by following instructions and lead fr
 This is the link to the video:
 https://www.youtube.com/watch?v=G3e-cpL7ofc&t=22150s
 
-The app does nothing, it is just responsive to different screen sizes.
+I did the app using HTML and CSS and it is responsive to change in screen size.
