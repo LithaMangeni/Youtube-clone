@@ -12,14 +12,6 @@ This project is a YouTube clone app created by following instructions and guidan
 - **HTML:** Used for structuring the content and layout of the app.
 - **CSS:** Used for styling the app and enhancing its visual appeal.
 
-## How to Run the App
-
-To set up and run a local copy of the YouTube clone app, follow these steps:
-
-1. Clone the repository: `git clone [repository URL]`
-2. Open the project folder: `cd youtube-clone-app`
-3. Open the `index.html` file in your web browser.
-
 ## Project Structure
 
 - `index.html`: Main HTML file containing the structure of the app.
